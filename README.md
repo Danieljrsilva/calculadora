@@ -1,2 +1,1 @@
-# calculadora
- calculadora em c#
+Calculadora 🔹 Tecnologias: C# 🔹 Descrição: Aplicação de calculadora desenvolvida em C#, demonstrando habilidades em lógica de programação e interface gráfica. 🔹 Desafio: Criar um sistema eficiente de cálculos e garantir usabilidade intuitiva.
